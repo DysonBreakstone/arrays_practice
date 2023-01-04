@@ -24,3 +24,5 @@ puts colors
 puts numbers
 puts averages
 puts puppy_iscute
+
+#Array index positions begin at 0. If an array has 10 elements, the first element of that array will be index position 0, and the last element will be index position 9.
